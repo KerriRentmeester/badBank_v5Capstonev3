@@ -1,0 +1,6 @@
+# Ignore directory
+/node_modules/
+
+# Ignore environment files
+.env
+AuthRoutes.json
